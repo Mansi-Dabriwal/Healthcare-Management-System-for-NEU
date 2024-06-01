@@ -1,2 +1,2 @@
 # Healthcare-Management-System-for-NEU
-[ERD Diagram](ERD Diagram.pdf)
+![ERD Diagram](ERD Diagram.pdf)
